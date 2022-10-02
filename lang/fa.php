@@ -9,3 +9,7 @@ $txt['lang_changed'] = "زبان تغییر یافت";
 $txt['restart'] = 'لطفا ربات را مجددا استارت کنید';
 #btn
 $txt['about_btn'] = 'درباره من💡';
+# courses
+$txt['amature_courses'] = 'دوره مبتدی';
+$txt['midlevel_courses'] = 'دوره متوسط';
+$txt['professional_courses'] = 'دوره حرفه ای';
