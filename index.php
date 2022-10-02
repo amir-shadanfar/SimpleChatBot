@@ -36,9 +36,9 @@ if ($text == '/start') {
     $aboutBTn = json_encode([
         'keyboard' => [
             [
-                ['text' => $txt['course_amature']],
-                ['text' => $txt['course_amature']],
-                ['text' => $txt['course_amature']],
+                'text' => $txt['amature_courses'],
+                'text' => $txt['midlevel_courses'],
+                'text' => $txt['professional_courses'],
             ]
         ],
         'resize_keyboard' => true
